@@ -1,8 +1,5 @@
 # Configure the OpenStack Provider
 provider "openstack" {
-    user_name  = "david.delande@orange.com"
-    tenant_name = "0750173703_semere"
-    password  = "$218Tps!$218Tps&"
     auth_url  = "https://identity.fr1.cloudwatt.com/v2.0"
 }
 
